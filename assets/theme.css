@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono);
 
 body{
-  background: fixed url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/bright_squares.png');
+  background: fixed url('Images/bright_squares.png');
   position:relative;
 }
 
@@ -134,7 +134,7 @@ footer{
 }
 
 .dark-bg {
-  background: fixed url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/random_grey_variations.png' );  
+  background: fixed url('Images/random_grey_variations.png' );  
 }
 footer a{
 	color:white;
